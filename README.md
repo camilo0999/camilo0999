@@ -33,6 +33,8 @@
 
 
 ## 🌟 Tecnologías que uso:
+<img src="https://github.com/camilo0999/camilo0999/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" alt="Imagen" style="float: right; margin-left: 20px;" width="400px" align="right" />
+
 
 ### Backend:
 - **Java** ☕
@@ -49,7 +51,7 @@
 - **MySQL** 🐬
 - **MariaDB** 🎛️
 - **MongoDB** 🍃
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" style="float: right; margin-left: 20px;" width="200px"/>
+
 ---
 
 ## 🚀 Experiencia:
